@@ -1,17 +1,16 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+Analyze the data and present findings. 
 
 ## Process
-### (your step 1)
-### (your step 2)
-
+### Uploaded the data 
+###cleaned the data and transformed it to answer questions 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Uploading the data and determining whether either views should be created or delete columns to maintain the integrty of the data
 
 ## Future Goals
-(what would you do if you had more time?)
+I would explore the data more to answer more questions and see what the data could answer 
