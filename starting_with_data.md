@@ -36,16 +36,3 @@ WHERE  a.units_sold > 0;
 
 
 
-Question 4: 
-
-SQL Queries:
-
-Answer:
-
-
-
-Question 5: 
-
-SQL Queries:
-
-Answer:
