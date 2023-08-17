@@ -10,7 +10,7 @@ Analyze the data and present findings.
 
 
 ## Challenges 
-Uploading the data and determining whether either views should be created or delete columns to maintain the integrty of the data
+Uploading the data and determining whether either views should be created or delete columns to maintain the integrity of the data
 
 ## Future Goals
 I would explore the data more to answer more questions and see what the data could answer 
